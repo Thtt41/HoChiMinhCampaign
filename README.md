@@ -1,1 +1,1 @@
-# A-Helping-Hand
+Collab project between Asahi and me.
